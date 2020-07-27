@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583463308637",
+    "firebase_url": "https://worldquiz-app.firebaseio.com",
+    "project_id": "worldquiz-app",
+    "storage_bucket": "worldquiz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583463308637:android:4761d79bb568f4b19aecb4",
+        "android_client_info": {
+          "package_name": "com.dsantano.worldquiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583463308637-34ei68leeo928k57n9sbt9pman3d3euv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA5k46TwM-wJwfDlp5272rinWik-Z9QvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583463308637-34ei68leeo928k57n9sbt9pman3d3euv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuItemMyUser"
+        android:icon="@drawable/ic_account_circle_white_24dp"
+        android:title="@string/menu_tittle_user"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menuItemTryQuiz"
+        android:icon="@drawable/ic_import_contacts_white_24dp"
+        android:title="@string/menu_tittle_quiz"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menuItemLogOut"
+        android:title="@string/menu_tittle_log_out" />
+
+</menu>
